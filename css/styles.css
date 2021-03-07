@@ -38,3 +38,18 @@ body{
     background-color: #512DA8;
     
 }
+
+.card-color{
+    background:rgb(240, 195, 80);
+}
+
+.btn-color{
+    background-color:goldenrod;
+    font-style:normal;
+    font-size:20px;
+    font-weight: bold;
+    color:black;
+
+    
+
+}
