@@ -1,0 +1,29 @@
+
+
+.navbar{
+    border:none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.06);
+    color:black;
+
+}
+
+.nav-item{
+    margin-left: 30px;
+    
+}
+
+.navbar .nav-item a{
+    font-family: 'Arial Narrow Bold';
+    font-style:normal;
+    color: black !important;
+    font-size: 20px;
+}
+
+.navbar .nav-item span{
+    padding-left: 5px;
+}
+
+.row-content{
+    margin-top: 205px;
+    min-height: 400px;
+}
